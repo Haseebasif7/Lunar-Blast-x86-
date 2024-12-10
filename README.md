@@ -22,17 +22,4 @@ To build and run the program, you need the following software installed:
 
 You can install these tools by downloading **MASM** from the official Microsoft site, or if you're on **Windows**, you can use **Visual Studio** to get MASM and its associated tools.
 
-## Files
-
-- `blast.asm`: The assembly code for the project.
-- `Makefile`: The build script to automate the assembly, linking, and execution steps.
-
-## Steps to Run the Code
-
-### 1. Clone the Repository
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/Lunar-Blast-x86.git
-cd Lunar-Blast-x86
+I hope you know the next steps :) 
